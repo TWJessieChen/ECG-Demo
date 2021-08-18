@@ -1,0 +1,3 @@
+rootProject.name = "EcgDemo"
+include ':app'
+include ':waveecglib'
